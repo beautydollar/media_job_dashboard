@@ -1,6 +1,0 @@
-streamlit
-pandas
-requests
-beautifulsoup4
-jinja2
-python-docx
